@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node.js and django
 - 💞️ I’m looking to collaborate on django project
 - 📫 How to reach me : rupesh.thapa2050@gmail.com
--Some projects created
+- Some projects created
 - https://projectebook.herokuapp.com/  -Ebook Application
 - https://vue3ecommerce.herokuapp.com/ -E-commerce Site with payment system Stripe
 - https://clonetwtsns.herokuapp.com/ -Twitter like clone web app
