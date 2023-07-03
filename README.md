@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Rupesh Thapa CS graduate
-- 👀 I’m interested in coding and learning new tech
-- 🌱 I’m currently learning node.js and django
-- 💞️ I’m looking to collaborate on django project
 - 📫 How to reach me : rupesh.thapa2050@gmail.com
 - Portfolio : https://rupeshthapa123.github.io/reactPortfolio
 - Some projects created
